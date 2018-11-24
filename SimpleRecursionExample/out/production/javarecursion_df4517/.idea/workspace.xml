@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/220_Tut1_df4517" value="PREVIEW" />
+        <entry key="$USER_HOME$/220_Tut2_df4517" value="PREVIEW" />
+        <entry key="$USER_HOME$/220_Tut3_df4517" value="PREVIEW" />
+        <entry key="$USER_HOME$/220_tut3_fr3517" value="PREVIEW" />
+        <entry key="$USER_HOME$/220_tut4_df4517" value="PREVIEW" />
+        <entry key="$USER_HOME$/220_tut5_df4517" value="PREVIEW" />
+        <entry key="$USER_HOME$/220_tut6_df4517" value="PREVIEW" />
+        <entry key="$USER_HOME$/220_tut7_df4517" value="PREVIEW" />
+        <entry key="$USER_HOME$/SoftwareEngineeringDesignCWs/220_tut3_fr3517" value="PREVIEW" />
+        <entry key="$USER_HOME$/SoftwareEngineeringDesignCWs/220_tut4_df4517" value="PREVIEW" />
+        <entry key="$USER_HOME$/SoftwareEngineeringDesignCWs/StrategyAndTemplateMethods" value="PREVIEW" />
+        <entry key="$USER_HOME$/javapictureprocessing_df4517" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="82" />
+    <option name="y" value="65" />
+    <option name="width" value="1392" />
+    <option name="height" value="991" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RecursionTestSuite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursionTestSuite" />
+      <module name="javarecursion_df4517" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RecursionTestSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
